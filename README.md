@@ -1,3 +1,5 @@
+# This branch preserves the documentation as it was during the Nov 11th, 2021 regenesis. The purpose is to make it easy if anybody needs the OVM 1.0 docs for some reason in the future
+
 # The Optimistic Ethereum Community Hub
 
 [![Discord](https://img.shields.io/discord/667044843901681675.svg?color=768AD4&label=discord&logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg)](https://discord.optimism.io)
