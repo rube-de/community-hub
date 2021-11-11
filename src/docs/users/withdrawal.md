@@ -3,6 +3,14 @@ title: Withdrawing from Optimistic Ethereum
 lang: en-US
 ---
 
+
+<script>
+  location.href="https://intercom.help/optimism/en/articles/5701484-withdrawals-from-optimistic-ethereum"
+</script>
+
+
+
+
 # {{ $frontmatter.title }}
 
 ::: tip Where is my money?

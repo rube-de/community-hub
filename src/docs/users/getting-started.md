@@ -3,6 +3,13 @@ title: Getting Started with Optimistic Ethereum
 lang: en-US
 ---
 
+
+<script>
+  location.href="https://intercom.help/optimism/en/collections/3202188-getting-started"
+</script>
+
+
+
 # {{ $frontmatter.title }}
 
 ::: tip OVM 2.0 Release Dates

@@ -3,11 +3,9 @@ title: Transaction Fees in OVM 2.0
 lang: en-US
 ---
 
-::: tip OVM 2.0 Release Dates
-OVM 2.0 is already released on the Kovan test network.
-We expect to deploy it to the production Optimistic Ethereum network on November 11th.
-:::
-
+<script>
+  location.href="https://intercom.help/optimism/en/articles/5699586-transaction-fees"
+</script>
 
 # {{ $frontmatter.title }}
 
